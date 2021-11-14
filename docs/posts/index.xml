@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https:/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 18:06:09 +0800</lastBuildDate><atom:link href="https:/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MathWork</title>
+      <link>https:/posts/mathwork/</link>
+      <pubDate>Sun, 14 Nov 2021 18:06:09 +0800</pubDate>
+      
+      <guid>https:/posts/mathwork/</guid>
+      <description>  写出格序群的定义，并举例说明。
+  写出格序域的定义，并举例说明。
+  </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https:/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Nov 2021 18:02:57 +0800</pubDate>
+      
+      <guid>https:/posts/my-first-post/</guid>
+      <description>Site of Tuwei Hello!</description>
+    </item>
+    
+  </channel>
+</rss>
