@@ -1,5 +1,7 @@
 # hugo site
 
+Go to [https://tuwei-cmd.github.io/](https://tuwei-cmd.github.io/) for preview.
+
 ## 
 1. Create a New Site
     ```sh
