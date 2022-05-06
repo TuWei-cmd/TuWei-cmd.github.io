@@ -1,5 +1,5 @@
-baseURL = 'https://'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://tuwei-cmd.github.io/'
+languageCode = 'zh-CN'
+title = "TuWei 's site"
 theme = "ananke"
 publishdir = "./docs"
